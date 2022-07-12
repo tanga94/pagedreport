@@ -214,7 +214,7 @@ h1.title, h1.subtitle, h2.author, h2.date {
 
 /* headers */
 h1.title {
-  font-size: 25pt;
+  font-size: 35pt;
   margin-right: 15%;
   font-weight: 700;
 }
@@ -235,11 +235,11 @@ h2.date {
 
 /* normal headers */
 h1 {
-  font-size: 40pt;
+  font-size: 20pt;
 }
 
 h2 {
-  font-size: 24pt;
+  font-size: 10pt;
 }
 
 /* text */
