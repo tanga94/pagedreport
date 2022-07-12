@@ -108,7 +108,7 @@ h1.title {
 @page:left {
 
     /* numbering */
-    @bottom-right {
+    @bottom-left {
         content: counter(page);
         color: var(--main-color);
         border: 5px solid var(--main-color);
