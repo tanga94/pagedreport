@@ -105,22 +105,7 @@ h1.title {
 }
 
 /* counter */
-@page:left {
 
-    /* numbering */
-    @bottom-left {
-        content: counter(page);
-        color: var(--main-color);
-        border: 5px solid var(--main-color);
-        margin-left: 15cm;
-        margin-right: -3cm;
-        padding-left: 1cm;
-        padding-right: 3cm;
-        margin-bottom: 1cm;
-        font-size: 14pt;
-        font-weight: bold;
-    }
-}
 
 @page:right {
 
