@@ -75,10 +75,10 @@ h1.title {
   }
 
   @top-left {
-    content: string(h1-title);
-    font-family: "Inter";
-    font-weight: bold;
-    color: var(--main-color);
+    content: url(https://www.bon.com.na/CMSTemplates/Bon/Images/newlogo.png);
+    position: absolute;
+    width: 1%;
+    height: 1%;
     border-bottom: 5px solid var(--main-color);
     margin-bottom: 0.7cm;
   }
