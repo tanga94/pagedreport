@@ -75,10 +75,9 @@ h1.title {
   }
 
   @top-left {
-    content: url(https://www.bon.com.na/CMSTemplates/Bon/Images/newlogo.png);
-    position: absolute;
-    width: 1cm;
-    height: 1cm;
+    background-image: url(https://www.bon.com.na/CMSTemplates/Bon/Images/newlogo.png);
+    background-repeat: no-repeat;
+    background-size: 2cm;
     border-bottom: 5px solid var(--main-color);
     margin-bottom: 0.7cm;
   }
