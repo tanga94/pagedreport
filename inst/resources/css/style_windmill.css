@@ -78,6 +78,7 @@ h1.title {
     background-image: url(https://www.bon.com.na/CMSTemplates/Bon/Images/newlogo.png);
     background-repeat: no-repeat;
     background-size: 2cm;
+    height: 100px;
     border-bottom: 5px solid var(--main-color);
     margin-bottom: 0.7cm;
   }
